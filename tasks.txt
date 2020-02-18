@@ -1,0 +1,5 @@
+Open Tasks
+1. Create Github
+2. Update Repo
+3. Deploy
+
